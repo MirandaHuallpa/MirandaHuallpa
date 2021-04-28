@@ -8,7 +8,7 @@
 </em></p>
 
 [![Linkedin: miranda-anggie](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miranda-anggie/)](https://www.linkedin.com/in/miranda-anggie/)
-[![GitHub Miranda](https://img.shields.io/github/followers/MirandaHuallpa?label=follow&style=social)](https://github.com/MirandaHuallpa)
+[![GitHub MirandaHuallpa](https://img.shields.io/github/followers/mirandahuallpa?label=follow&style=social)](https://github.com/MirandaHuallpa)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
