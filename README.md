@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: miranda-anggie](https://img.shields.io/badge/in-miranda--anggie-blue-link=https://www.linkedin.com/in/miranda-anggie/)](https://www.linkedin.com/in/miranda-anggie/)
+[![Linkedin: miranda-anggie](https://img.shields.io/badge/in-miranda--anggie-blue&link=https://www.linkedin.com/in/miranda-anggie/)](https://www.linkedin.com/in/miranda-anggie/)
 [![GitHub MirandaHuallpa](https://img.shields.io/github/followers/MirandaHuallpa?label=follow&style=social)](https://github.com/MirandaHuallpa)
 
 
