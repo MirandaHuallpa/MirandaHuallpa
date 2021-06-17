@@ -20,6 +20,6 @@ const miranda = {
   tools: [Git, MySQL, SQL]
 }
 ```
-<h3> A different language is a different vision of life. 
-I'd like to know you more. So just say Hi!! </h3>
+<h6> A different language is a different vision of life. 
+I'd like to know you more. So just say Hi!! </h6>
 ---
