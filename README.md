@@ -16,8 +16,10 @@
 ```javascript
 const miranda = {
   pronouns: "she" | "her",
-  code: [C , Python, HTML, CSS]
+  code: [C , Python, HTML, CSS],
+  tools: [Git, MySQL, SQL]
 }
 ```
-
+A different language is a different vision of life. 
+I'd like to know you more. So just say Hi!!
 ---
