@@ -21,6 +21,8 @@ const miranda = {
   tools: [Git, MySQL, SQL]
 }
 ```
+I'm a Full Stack developer. Right now I'm searching my first job at the IT world. 
+
 <h6> A different language is a different vision of life. 
 I'd like to know you more. So just say Hi!! </h6>
 ---
