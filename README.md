@@ -23,6 +23,10 @@ const miranda = {
 ```
 I'm a Java Full Stack Development. Right now I'm searching my first job at the IT world. 
 
+I want to be continue learning, improving my skills and my code of course to be part of technological development.
+
+Thanks you for reading. 
+
 <h6> A different language is a different vision of life. 
 I'd like to know you more. So just say Hi!! </h6>
 ---
