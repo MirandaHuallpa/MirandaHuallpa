@@ -17,7 +17,7 @@
 ```javascript
 const miranda = {
   pronouns: "she" | "her",
-  code: [C , Python, HTML, CSS, Javascript],
+  code: [HTML, CSS, Bootstrap,Javascript, Python , C],
   tools: [Git, MySQL, SQL]
 }
 ```
